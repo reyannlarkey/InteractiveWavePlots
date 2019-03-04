@@ -1,2 +1,5 @@
-# InteractiveWavePlots
-Interactive, animated, waves
+# Interactive Wave Plots
+
+### Dependencies
+* matplotlib
+* numpy
